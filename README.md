@@ -49,6 +49,7 @@ I am a front-end developer. I want to advance in skills and knowledge. I like to
 ### :writing_hand: My Projects :
 
 * [GraphiQL](https://brygmosrsfinaltask.netlify.app/)
+* [Sea Battle](https://skrigan.github.io/rs-clone/)
 * [SongBird](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/SongBird/index.html)
 * [Online-Zoo](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/online-zoo/pages/main/index.html)
 * [Gem Puzzle](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/dist/index.html)
