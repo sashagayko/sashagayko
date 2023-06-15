@@ -20,6 +20,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sashagayko&style=flat-square&color=blue" alt=""/>
+</div>
+
 ---
 
 ### My name is Aleksandr
@@ -27,19 +31,41 @@ I like to work and see the results of my work. This is one of the reasons why I 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase"width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" **alt="webpack" width="45" height="45"/>
 </div>
 
 ---
 
 ### :writing_hand: My Projects :
+
+* [GraphiQL](https://brygmosrsfinaltask.netlify.app/)
+* [SongBird](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/SongBird/index.html)
+* [Online-Zoo](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/online-zoo/pages/main/index.html)
+* [Gem Puzzle](https://rolling-scopes-school.github.io/sashagayko-JSFE2022Q3/dist/index.html)
+* [Momentum](https://rolling-scopes-school.github.io/sashagayko-JSFEPRESCHOOL2022Q2/stage1-tasks-momentum/stage1-tasks-momentum/index.html)
+* [Travel](https://rolling-scopes-school.github.io/sashagayko-JSFEPRESCHOOL2022Q2/Travel/index.html)
+
+---
+
+### 💼 Education
+
+#### Belarusian State University of Informatics and Radioelectronics(2018-2023) :
+* Faculty of Mobile Design
+
+#### The Rolling Scopes School (EPAM) :
+* React 2023Q1 [certificate](https://app.rs.school/certificate/gu0bbhqm)
+* JavaScript/Front-end 2022Q3 [certificate](https://app.rs.school/certificate/8mlwxsuf)
+* JavaScript/Front-end Pre-School 2022Q2 [certificate](https://app.rs.school/certificate/a48iiii6)
 
 ---
 
